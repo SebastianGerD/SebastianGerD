@@ -1,6 +1,6 @@
 ## Hola, soy Sebas y trabajo en el mundo de los datos 👋
 
-## Experencia
+## Experiencia
 
 *2022 - 2023*:
 <br>
